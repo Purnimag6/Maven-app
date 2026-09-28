@@ -1,0 +1,10 @@
+Maven helps you:
+
+Compile your Java code
+Run tests
+Download/manage dependencies such as Spring, JUnit, etc.
+Package your application into a JAR/WAR
+Manage the complete build process.
+The most important file: pom.xml
+
+pom.xml means Project Object Model. It contains your project's configuration, dependencies, version, plugins, and other build information.
